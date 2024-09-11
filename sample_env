@@ -1,0 +1,15 @@
+# AWS S3 Bucket name
+AWS_S3_BUCKET=
+
+# DynamoDB table name for logging weather events
+DYNAMODB_TABLE=WeatherLogs
+
+# AWS Credentials (leave blank to use local storage options)
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+
+# Cache expiry time in seconds (default is 300 seconds or 5 minutes)
+CACHE_EXPIRY=300
+
+# API Key for the weather service (replace 'your_openweathermap_api_key' with your actual API key)
+WEATHER_API_KEY=
