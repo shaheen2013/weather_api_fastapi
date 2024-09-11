@@ -6,7 +6,7 @@ A weather API service built with FastAPI, fetching data from external APIs like 
 
 ### Clone and Navigate
 
-git clone https://github.com/your-username/weather-api.git
+git clone https://github.com/shaheen2013/weather_api_fastapi
 cd weather-api
 
 
