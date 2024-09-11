@@ -8,7 +8,7 @@ A weather API service built with FastAPI, fetching data from external APIs like 
 
 `git clone https://github.com/shaheen2013/weather_api_fastapi`
 
-`cd weather-api`
+`cd weather_api_fastapi`
 
 
 ### Configure Environment
